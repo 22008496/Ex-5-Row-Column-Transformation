@@ -78,11 +78,7 @@ int main() {
     return 0;
 }
 ```
-
-
-
 # Output
-
 ![image](https://github.com/user-attachments/assets/dcf8b883-41c2-4c8c-8fe7-68d278424149)
 
 
